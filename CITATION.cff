@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this kit, please cite it using the metadata below."
+type: dataset
+title: "Arabic Retrieval Starter Kit"
+abstract: >-
+  A small, fully synthetic Arabic and English retrieval and RAG evaluation
+  fixture with graded qrels, superseded-policy hard negatives, and partly
+  answerable and unanswerable questions. Written by Bayanat Labs; the company,
+  policies and numbers are fictional.
+version: "0.1"
+date-released: "2026-10-05"
+license: CC-BY-4.0
+repository: "https://github.com/Bayanat-Labs/arabic-retrieval-starter-kit"
+url: "https://www.bayanatlabs.com/research/arabic-retrieval-starter-kit"
+authors:
+  - name: "Bayanat Labs"
+    city: "Riyadh"
+    country: "SA"
+    website: "https://www.bayanatlabs.com"
+keywords:
+  - arabic
+  - arabic-nlp
+  - information-retrieval
+  - rag-evaluation
+  - qrels
+  - synthetic-data

@@ -1,0 +1,9 @@
+Arabic Retrieval Starter Kit v0.1, Copyright 2026 Bayanat Labs.
+
+This work is licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). To view a copy, visit https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Bayanat Labs, Arabic Retrieval Starter Kit v0.1,
+https://www.bayanatlabs.com/research/arabic-retrieval-starter-kit"
+
+All content is synthetic and authored by Bayanat Labs. The company and policies are fictional.
