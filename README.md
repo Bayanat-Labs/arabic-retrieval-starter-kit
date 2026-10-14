@@ -4,6 +4,8 @@ A small, fully synthetic Arabic and English retrieval and RAG evaluation fixture
 
 [Project page](https://www.bayanatlabs.com/research/arabic-retrieval-starter-kit) · License CC BY 4.0 · Version v0.1 (2026-10-05)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23355780.svg)](https://doi.org/10.5281/zenodo.23355780)
+
 ## What is in it
 
 The kit covers the cases that trip up Arabic enterprise search:
@@ -57,6 +59,8 @@ Bayanat Labs builds [Arabic retrieval and RAG data](https://www.bayanatlabs.com/
 ## Cite
 
 Bayanat Labs (2026). Arabic Retrieval Starter Kit v0.1. https://www.bayanatlabs.com/research/arabic-retrieval-starter-kit
+
+DOI for all versions: [10.5281/zenodo.23355780](https://doi.org/10.5281/zenodo.23355780). This release (v0.1): [10.5281/zenodo.23355781](https://doi.org/10.5281/zenodo.23355781).
 
 GitHub's "Cite this repository" button gives APA and BibTeX from [CITATION.cff](CITATION.cff).
 
